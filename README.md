@@ -1,0 +1,1 @@
+NOTICE: This is not for public server use, I do NOT condone nor promote the use of cheats, this is simply for my learning. If youd like to test this ensure you have -insecure flag added in launch options in steam to disable VAC. this will allow you to use for local matches and will disable the ability to join any official servers.
